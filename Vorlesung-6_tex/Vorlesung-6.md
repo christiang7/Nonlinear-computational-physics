@@ -1,6 +1,5 @@
-===== Vorlesung-6 =====
 # Vorlesung-6
-Created 2025-08-24
+Created 2016-05-24
 
 
 ## Description

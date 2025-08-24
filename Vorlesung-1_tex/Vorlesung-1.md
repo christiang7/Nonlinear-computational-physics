@@ -1,3 +1,14 @@
+# Vorlesung-1
+Created 2016-04-12
+
+
+## Description
+
+## Journal
+ - [x] Backlog
+    - [ ] 
+ - [x] Doing
+ 
 **Computational NLD** Vorlesung 1 12.04.2016
 
 **Aufgabe 1 logitische Funktion in C++ programmieren**
@@ -46,17 +57,7 @@ delta_r = 0.01
  
 
 ` TeXmacs interface for GNUplot. `
-===== Vorlesung-1 =====
-# Vorlesung-1
-Created 2025-08-24
 
-
-## Description
-
-## Journal
- - [x] Backlog
-    - [ ] 
- - [x] Doing
 
 ## Latex File
 

@@ -1,6 +1,5 @@
-===== Vorlesung-7 =====
 # Vorlesung-7
-Created 2025-08-24
+Created 2016-05-31
 
 
 ## Description
@@ -30,7 +29,7 @@ Created 2025-08-24
 
 \begin{document}
 
-{\tmstrong{Vorlesung 7 07.06.2016}}
+{\tmstrong{Vorlesung 7 31.05.2016}}
 
 \
 
