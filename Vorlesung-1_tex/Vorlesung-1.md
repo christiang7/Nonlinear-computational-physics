@@ -62,7 +62,7 @@ delta_r = 0.01
 ## Latex File
 
 *Vorlesung-1.tex*
-```tex
+```latex
 \documentclass{article}
 \usepackage[german]{babel}
 \usepackage{graphicx,hyperref,xcolor}

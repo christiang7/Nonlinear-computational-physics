@@ -12,7 +12,7 @@ Created 2016-04-19
 ## Latex File
 
 *Vorlesung-2-.tex*
-```tex
+```latex
 \documentclass{article}
 \usepackage[german]{babel}
 \usepackage{graphicx,xcolor}
