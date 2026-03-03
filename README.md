@@ -14,7 +14,7 @@ Report for 5. lecture is [here](./Vorlesung-5_tex/Vorlesung-5.pdf)
 
 Report for 6. lecture is [here](./Vorlesung-6_tex/Vorlesung-6.pdf)
 
-Report for 7. lecture is [here](./Vorlesung-8_tex/Vorlesung-7-.pdf)
+Report for 7. lecture is [here](./Vorlesung-7_tex/Vorlesung-7-.pdf)
 
 Report for 8. lecture is [here](./Vorlesung-8_tex/Vorlesung-8.pdf)
 
