@@ -1,0 +1,5 @@
+# 2»ws-2026-07-13-Researchers_develop_AI_tool_that_finds_the_equations_behind_complex_systems
+Researchers develop AI tool that finds the equations behind complex systems~ Clarkson University researchers have developed an artificial intelligence tool that can uncover the mathematical equations governing complex and chaotic systems directly from data. The technology, called KANDy—short for Kolmogorov-Arnold Networks for Dynamics—is designed to help scientists understand systems that are difficult to describe using traditional methods because they are noisy, nonlinear or highly unpredictable.  
+https://phys.org/news/2026-07-ai-tool-equations-complex.html  
+Center-For-Complex-Systems-Science/kandy: Kolmogorov-Arnold Networks for Dynamics (KANDy) to learn governing equations from dynamical systems.~ Kolmogorov-Arnold Networks for Dynamics (KANDy) to learn governing equations from dynamical systems. - Center-For-Complex-Systems-Science/kandy  
+https://github.com/Center-For-Complex-Systems-Science/kandy  
